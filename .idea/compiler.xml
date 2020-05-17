@@ -9,5 +9,8 @@
         <module name="Przegladarka" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="Przegladarka" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
